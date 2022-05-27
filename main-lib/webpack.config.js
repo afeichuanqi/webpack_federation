@@ -26,6 +26,7 @@ module.exports = {
     ],
   },
   devServer: {
+    static: path.join(__dirname, 'dist'),
     port: 8085,
     // 配置允许跨域
     headers: {

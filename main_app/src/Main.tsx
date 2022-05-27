@@ -1,6 +1,6 @@
 import React from "react";
 // @ts-ignore
-const Main2 = React.lazy(() => import("lib_remote/Main2"));
+const Main2 = React.lazy(() => import("lib_remote/Main1"));
 
 const Index: React.FC = () => {
   // useEffect(() => {
