@@ -1,0 +1,26 @@
+{
+  "prettier.printWidth": 100,
+  "prettier.tabWidth": 4,
+  "prettier.useTabs": false,
+  "prettier.semi": true,
+  "prettier.singleQuote": true,
+  "prettier.proseWrap": "preserve",
+  "prettier.arrowParens": "avoid",
+  "prettier.bracketSpacing": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "printWidth": 80,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.parser": "babylon",
+  "prettier.requireConfig": false,
+  "prettier.stylelintIntegration": false,
+  "prettier.trailingComma": "es5",
+  "prettier.tslintIntegration": false,
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": { "parser": "json" }
+    }
+  ]
+}

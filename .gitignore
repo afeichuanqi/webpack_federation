@@ -1,0 +1,5 @@
+# 项目排除路径
+/main-lib/dist/
+/main-lib/node_modules/
+/main_app/dist/
+/main_app/node_modules/
